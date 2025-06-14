@@ -6,8 +6,7 @@
 *DURATION*:6 WEEKS
 *MENTOR*:NEELA SANTOSH
 
-*description*
-Here's a more humanized and natural version of your project summary. It maintains all the technical details but flows more like a story, suitable for presentations, portfolio websites, or documentation aimed at mixed audiences:
+*description*:
 
 🌐 TaaRaa – A Full-Stack Online Learning Platform
 TaaRaa is a fully functional and user-friendly online learning platform built to make digital education more accessible, engaging, and trackable. Designed with both learners and educators in mind, the platform allows users to watch video lessons, take quizzes, and monitor their progress — all from one seamless interface.
