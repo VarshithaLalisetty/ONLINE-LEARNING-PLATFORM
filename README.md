@@ -55,3 +55,7 @@ Plus, the platform is built to grow. Features like certificates, forums, persona
 🎓 Conclusion
 TaaRaa is more than just a coding project — it’s a complete, deployable learning platform that delivers real value. Whether used for self-paced education or instructor-led programs, it combines thoughtful design with a powerful backend to provide an end-to-end e-learning experience that’s smooth, secure, and scalable.
 
+
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/f501238e-29dc-4b94-b1e2-3ab86b9f4e47)
